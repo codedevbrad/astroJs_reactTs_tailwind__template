@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.tsx';
+
+const seo = {
+	description: "astro index page"
+}
+---
+
+<Layout title="Welcome to Astro." seo={ seo }>
+	<main>
+		<h1>Welcome to <span class="text-gradient">Astro</span></h1>
+		<Card />
+	</main>
+</Layout>
