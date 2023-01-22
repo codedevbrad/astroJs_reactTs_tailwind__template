@@ -1,22 +1,6 @@
-# Welcome to [Astro]
+# ASTROJs _ reactTs _ Tailwind __ template
 
-## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
 
 ## 🧞 Commands
 
